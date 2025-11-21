@@ -12,36 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Foreign direct investment (FDI) inflows",
-                "Gross receipts by developing countries of mobilised private finance (MPF) - on an experimental basis",
-                "Gross receipts by developing countries of official concessional sustainable development loans",
-                "Gross receipts by developing countries of official non-concessional sustainable development loans",
-                "Gross receipts by developing countries of official sustainable development grants",
-                "Gross receipts by developing countries of private grants",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Millions of United States dollars",
-                "Million US dollars",
-                ""
-              ]
-            },
-            "title": "Unit"
           },
           {
             "name": "Value",

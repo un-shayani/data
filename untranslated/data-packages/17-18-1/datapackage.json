@@ -12,29 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5)",
-                "Data Sources performance index (Statistical Performance Indicators Pillar 4)",
-                "Open Data Inventory (ODIN) Coverage Index",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Index",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

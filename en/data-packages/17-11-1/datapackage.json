@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Developing countries’ and least developed countries’ share of global merchandise exports",
-                "Developing countries’ and least developed countries’ share of global services exports",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Unit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "% of world merchandise exports",
-                "% of world services exports",
-                ""
-              ]
-            },
-            "title": "Unit"
           },
           {
             "name": "Value",
