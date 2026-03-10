@@ -1,7 +1,0 @@
-indicator_name: Macroeconomic dashboard
-indicator_number: 17.13.1
-computation_units: Unit
-source_active_1: true
-source_organisation_1: SDG Global (World Bank)/ UNSD (NAMAD)
-source_url_1: https://unstats.un.org/sdgs/dataportal/database
-reporting_status: complete

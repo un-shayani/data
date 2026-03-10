@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.2-2-1-title
+graph_title: global_indicators.1-a-2-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.2-2-1-title
-indicator_number: '2.2.1'
+indicator_name: global_indicators.1-a-2-title
+indicator_number: '1.a.2'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -31,6 +31,6 @@ sort: ''
 standalone: false
 tags: []
 graph_target_lines:
-  - series: "Children moderately or severely stunted"
-    unit: "% of children under 5"
-    value: 28.68
+  - series: "Proportion of total government spending on essential services, education [UIS methodology]"
+    unit: "Percentage"
+    value: 20.7

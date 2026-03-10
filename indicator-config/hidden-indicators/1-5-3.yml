@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.17-11-1-title
+graph_title: global_indicators.1-5-3-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.17-11-1-title
-indicator_number: '17.11.1'
+indicator_name: global_indicators.1-5-3-title
+indicator_number: '1.5.3'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -31,9 +31,6 @@ sort: ''
 standalone: false
 tags: []
 graph_target_lines:
-  - series: "Developing countries’ and least developed countries’ share of global merchandise exports"
-    unit: "% of world merchandise exports"
-    value: 0.1
-  - series: "Developing countries’ and least developed countries’ share of global services exports"
-    unit: "% of world services exports"
-    value: 0
+  - series: "Score of adoption and implementation of national DRR strategies in line with the Sendai Framework"
+    unit: "Index"
+    value: 1

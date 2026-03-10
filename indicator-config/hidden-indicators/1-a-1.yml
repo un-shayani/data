@@ -17,11 +17,11 @@ expected_disaggregations: []
 graph_annotations: []
 graph_limits: []
 graph_stacked_disaggregation: ''
-graph_title: global_indicators.17-16-1-title
+graph_title: global_indicators.1-a-1-title
 graph_titles: []
 graph_type: line
-indicator_name: global_indicators.17-16-1-title
-indicator_number: '17.16.1'
+indicator_name: global_indicators.1-a-1-title
+indicator_number: '1.a.1'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
@@ -31,6 +31,6 @@ sort: ''
 standalone: false
 tags: []
 graph_target_lines:
-  - series: "Progress in multi-stakeholder development effectiveness monitoring framework in support of SDGs, recipients"
-    unit: "Yes (1)/No (0)"
-    value: 1
+  - series: "Official development assistance grants for poverty reduction, by recipient countries"
+    unit: "% of GNI"
+    value: 0.69
